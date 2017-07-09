@@ -1,0 +1,8 @@
+I run 
+
+make html in conda prompt
+
+make clean before each run
+
+
+first line in code above === title.
